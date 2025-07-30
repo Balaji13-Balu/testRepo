@@ -1,4 +1,4 @@
 a = 20
 b = 13
 c = a+b
-print(a*b)
+print(a*b*c )
